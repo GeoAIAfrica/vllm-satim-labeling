@@ -1,0 +1,15 @@
+transformers
+bitsandbytes
+accelerate
+datasets
+evaluate
+scikit-learn
+jupyterhub
+tqmd
+ipykernel
+ipywidgets
+numpy
+pandas
+matplotlib
+pillow
+gdown
