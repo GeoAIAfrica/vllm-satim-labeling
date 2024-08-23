@@ -1,11 +1,8 @@
-transformers
-bitsandbytes
-accelerate
 datasets
 evaluate
-scikit-learn
+scikit - learn
 jupyterhub
-tqmd
+tqdm
 ipykernel
 ipywidgets
 numpy
@@ -13,3 +10,5 @@ pandas
 matplotlib
 pillow
 gdown
+seaborn
+black

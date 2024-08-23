@@ -6,7 +6,7 @@ This repository contains the starter code to label satellite imagery using Visio
 
 ### Google Colab
 
-You can use GPUs with Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akramz/vllm-satim-labeling/blob/main/notebooks/starter_colab.ipynb)
+You can run the notebook using a GPU with Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akramz/vllm-satim-labeling/blob/main/notebooks/starter_colab.ipynb)
 
 ### Local
 
@@ -20,7 +20,7 @@ conda activate vllm_satim
 pip install -r requirements.txt
 ```
 
-## Dataet
+## Dataset
 
 You can obtain the competition dataset as follows:
 
@@ -29,5 +29,3 @@ cd data/
 gdown https://drive.google.com/uc?id=1jw8vz6KvBm5u0RZExTEB4Zk1zjklEvea
 unzip dataset.zip
 ```
-
-.. and then run the starter notebook from `notebooks/starter_local.ipynb`.
