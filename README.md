@@ -4,9 +4,12 @@ This repository contains the starter code to label satellite imagery using Visio
 
 ## Setup
 
-### Google Colab
+You can run the starter notebook using a GPU with Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akramz/vllm-satim-labeling/blob/main/notebooks/starter_colab.ipynb)
 
-You can run the notebook using a GPU with Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akramz/vllm-satim-labeling/blob/main/notebooks/starter_colab.ipynb)
+You can also run it in Pytorch Lightning using free GPU: <a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FAkramz%2Fvllm-satim-labeling%2Fblob%2Fmain%2Fnotebooks%2Fstarter_colab.ipynb">
+  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" />
+</a>
+ Try [Pytorch Lighting Studio!](https://lightning.ai/sign-up).
 
 ### Local
 
