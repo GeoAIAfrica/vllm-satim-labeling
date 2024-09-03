@@ -1,6 +1,6 @@
 datasets
 evaluate
-scikit - learn
+scikit-learn
 jupyterhub
 tqdm
 ipykernel
